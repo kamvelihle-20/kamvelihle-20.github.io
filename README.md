@@ -34,10 +34,8 @@ I am eager to contribute positively to organizations while growing both personal
 - Postman  
 
 ### Databases
-- MySQL  
-- Relational Database Design  
-- Data Modelling  
-
+- MySQL
+  
 ### Multimedia & Design
 - Adobe Illustrator  
 - Adobe InDesign  
