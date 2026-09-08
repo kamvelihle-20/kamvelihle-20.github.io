@@ -1,13 +1,13 @@
 # 📄 Kamvelihle Mqadi - CV
 
-## 👤 About Me
+##  About Me
 I am a dedicated, hardworking, and motivated individual with strong attention to detail and a commitment to excellence. I am currently a Diploma in Multimedia Applications student with a passion for ICT, continuous learning, and applying my technical and creative skills in real-world environments.
 
 I am eager to contribute positively to organizations while growing both personally and professionally.
 
 ---
 
-## 🎓 Education
+##  Education
 - **Cape Peninsula University of Technology (CPUT)**  
   Diploma in Multimedia Applications (2024 – Present)
 
@@ -16,7 +16,7 @@ I am eager to contribute positively to organizations while growing both personal
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 - JavaScript  
@@ -45,7 +45,7 @@ I am eager to contribute positively to organizations while growing both personal
 
 ---
 
-## 📁 Projects
+##  Projects
 
 ###  Academic Project
 - Developed a shopping web application using Vue.js focused on selling football equipment, implenting dynamic components and user friendly navigation.
