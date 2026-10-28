@@ -27,9 +27,7 @@ I am eager to contribute positively to organizations while growing both personal
 
 ### Frameworks & Tools
 - Git & GitHub  
-- React  
-- Maven  
-- RESTful APIs  
+- MERN    
 - PHP  
 - Postman  
 
