@@ -144,6 +144,8 @@ The biggest challenge was balancing my technical and creative abilities, but thr
 
 Overall, I now feel more prepared to present myself in the ICT industry and continue developing my skills.
 
+---
+
 ## Agile Team Charter
 * **Evidence:** [Download Agile Team Charter PDF](evidence/Agile_Team-Charter_Kamvelihle%20Mqadi.pdf)
 * **Reflection:** 
