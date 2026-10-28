@@ -143,3 +143,38 @@ This task helped me grow both technically and professionally. I improved my abil
 The biggest challenge was balancing my technical and creative abilities, but through careful structuring and refinement, I created a CV that reflects my strengths.
 
 Overall, I now feel more prepared to present myself in the ICT industry and continue developing my skills.
+
+## Agile Team Charter
+* **Evidence:** [Download Agile Team Charter PDF](evidence/Agile_Team-Charter_Kamvelihle%20Mqadi.pdf)
+* **Reflection:** 
+  During the setup of our team charter, we established our shared purpose, core values, and working agreements to reduce daily friction. Working collaboratively on this helped us align our expectations and maintain clear communication from day one.
+
+## User Stories and Tasks
+* **Evidence:** 
+  ![User Story Evidence](evidence/User%20Story.png)
+  * **Live Board Link:** [View Trello Board](https://trello.com/invite/b/69f8e151936e90706fcf2d05/ATTIb9b1ddf3f4c8b3b6fecfd7f8b3c05fb1F2D1A5DF/waterwatch) 
+* **Reflection:** 
+  Breaking down features into user stories from the end-user's perspective helped us understand real requirements. It allowed us to structure our tasks effectively and track progress.
+
+## Product Backlog
+* **Evidence:** 
+  ![Product Backlog Evidence](evidence/Product%20and%20Sprint%20Backlog.png)
+  * **Live Board Link:** [View Trello Board](https://trello.com/invite/b/69f8e151936e90706fcf2d05/ATTIb9b1ddf3f4c8b3b6fecfd7f8b3c05fb1F2D1A5DF/waterwatch) 
+* **Reflection:** 
+  Managing the product backlog helped us prioritize required work, features, and improvements systematically, ensuring we always focused on high-value items first.
+
+## Sprint Backlog
+* **Evidence:** 
+  ![Sprint Backlog Evidence](evidence/Product%20and%20Sprint%20Backlog.png)
+    * **Live Board Link:** [View Trello Board](https://trello.com/invite/b/69f8e151936e90706fcf2d05/ATTIb9b1ddf3f4c8b3b6fecfd7f8b3c05fb1F2D1A5DF/waterwatch)
+* **Reflection:** 
+  The sprint backlog provided a real-time, actionable plan for our team. It kept us accountable during each sprint cycle and helped us manage time pressures effectively.
+
+## Agile Logbook
+* **Evidence:** 
+  * [Agile Logbook 14-17 July](evidence/Agile%20Logbook%2014-17%20July.docx)
+  * [Agile Logbook 21-24 July](evidence/Agile%20Logbook%2021-24%20July.docx)
+  * [Agile Logbook 28-31 July](evidence/Agile%20Logbook%2028-31%20July.docx)
+  * [Agile Logbook 04-07 August](evidence/Agile%20Logbook%2004-07%20August.docx)
+* **Reflection:** 
+  During this period, I worked mainly on research and backlog support as a Research Analyst. I helped identify user problems and ensured that the solution is based on real needs. The Agile process helped me break work into smaller tasks, track progress clearly, and improve communication with the team. Some challenges included limited data and time pressure, but these were managed through teamwork and task prioritisation.
